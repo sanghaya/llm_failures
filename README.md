@@ -1,4 +1,3 @@
-### Ongoing
 #### Arithmetics
 
 #### Commutative property ("Reversal curse")
